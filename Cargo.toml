@@ -1,0 +1,6 @@
+[package]
+name = "si-conservation-diffusion"
+version = "0.1.0"
+edition = "2021"
+description = "Conservation-law-constrained diffusion on agent interaction graphs"
+license = "MIT"
